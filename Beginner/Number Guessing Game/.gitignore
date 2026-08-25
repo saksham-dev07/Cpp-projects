@@ -1,0 +1,22 @@
+# Build outputs
+bin/
+build/
+*.exe
+*.obj
+*.o
+*.pdb
+*.ilk
+*.out
+
+# IDE & Editor files
+.vscode/
+.vs/
+*.sln
+*.vcxproj*
+.idea/
+*.swp
+*.DS_Store
+
+# Save game data & logs
+*.dat
+*.log
