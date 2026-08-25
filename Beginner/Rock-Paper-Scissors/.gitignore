@@ -1,0 +1,23 @@
+# Binaries & build artifacts
+bin/
+build/
+*.obj
+*.exe
+*.ilk
+*.pdb
+*.manifest
+*.o
+*.a
+
+# Saved game data & temp test files
+*.dat
+test_*.dat
+rps_stats.dat
+
+# IDE & Editor files
+.vscode/
+.vs/
+*.sln
+*.vcxproj
+*.user
+.DS_Store
