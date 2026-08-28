@@ -1,0 +1,21 @@
+# Build and binary directories
+bin/
+build/
+*.exe
+*.obj
+*.o
+*.pdb
+*.ilk
+*.manifest
+*.lib
+*.a
+
+# Data files generated at runtime
+tasks.dat
+test_tasks.dat
+
+# IDE and OS files
+.vscode/
+.vs/
+.DS_Store
+Thumbs.db
